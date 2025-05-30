@@ -178,6 +178,13 @@ plasma.say_hello()
 
 *_My GitHub activity — mostly made of caffeine and last-minute commits._*
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/pacman-contribution-graph.svg">
+</picture>
+
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=5000&color=00FFFF&center=true&vCenter=true&width=900&height=200&lines=System%3A+Philosophy+Loaded+%E2%9C%85" alt="Typing SVG" />
 </div>
