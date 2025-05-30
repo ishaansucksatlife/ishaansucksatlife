@@ -188,3 +188,5 @@ plasma.say_hello()
 <h3 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=150&section=footer" />
 </h3>
+
+[![Skills](https://github-readme-skills.vercel.app/api?username=ishaansucksatlife&theme=radical&bg_color=%230D1117&text_color=%23c9d1d9&color=%2300FFFF)](https://github.com/ishaansucksatlife)
