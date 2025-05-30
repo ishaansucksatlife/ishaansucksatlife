@@ -5,9 +5,11 @@
 </div>
 
 
+
+
 <div align="center">
-  <a href="https://discord.com/invite/HazvsVHxyE">
-    <img src="https://invidget.switchblade.xyz/HazvsVHxyE" alt="Join our Discord server!"/>
+  <a href="https://discord.gg/HazvsVHxyE">
+    <img src="https://invidget.switchblade.xyz/HazvsVHxyE" alt="Join our Discord server!">
   </a>
 </div>
 
