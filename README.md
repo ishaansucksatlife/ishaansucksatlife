@@ -101,6 +101,6 @@ plasma.say_hello()
 ![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2b3137.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Render](https://img.shields.io/badge/render-4A72C4.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Glitch](https://img.shields.io/badge/glitch-6633CC.svg?style=for-the-badge&logo=glitch&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM-Cloud-006699.svg?style=for-the-badge&logo=ibm&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-F80000.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle-Cloud-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 </details>
