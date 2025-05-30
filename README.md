@@ -125,7 +125,7 @@ plasma.say_hello()
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 *_I store things. Sometimes on purpose._*  
-*_Bonus: Has accidentally queried production without WHERE clauses.*  
+*Bonus: Has accidentally queried production without WHERE clauses.*  
 
 </details>
 
