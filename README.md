@@ -162,6 +162,8 @@ plasma.say_hello()
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaansucksatlife&theme=radical&hide_border=true&stroke=00FFFF&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="Streak Stats"/>
 </div>
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishaansucksatlife&show_icons=true&theme=radical&color=00FFFF&bg_color=0d1117)](https://github.com/ishaansucksatlife)
+
 ## 🏆 GitHub Achievements
 
 <p align="center">
