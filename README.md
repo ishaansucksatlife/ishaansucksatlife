@@ -1,9 +1,5 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1190655443832414336?showDisplayName=true&theme=dark)](https://discord.com/users/1190655443832414336)
 
-## 🎧 Now Playing on Spotify
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31b6xwu4m7ss64quionf2uuj7jhy&cover_image=true&theme=novatorem&bar_color=00FFFF&bar_color_cover=true)](https://open.spotify.com/user/31b6xwu4m7ss64quionf2uuj7jhy)
-
 
 
 <div align="center">
