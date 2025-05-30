@@ -176,14 +176,15 @@ plasma.say_hello()
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ishaansucksatlife&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true)](https://github.com/ishaansucksatlife)
 
-*_My GitHub activity — mostly made of caffeine and last-minute commits._*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/github-snake.svg" />
 </picture>
 
+
+*_My GitHub activity — mostly made of caffeine and last-minute commits._*
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=5000&color=00FFFF&center=true&vCenter=true&width=900&height=200&lines=System%3A+Philosophy+Loaded+%E2%9C%85" alt="Typing SVG" />
