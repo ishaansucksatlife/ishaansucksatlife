@@ -4,6 +4,9 @@
   </a>
 </div>
 
+<p align="center">
+  <img src="https://github-readme-time.vercel.app/api?timezone=Asia/Kolkata&color=00FFFF&bg=0d1117" alt="Current Time" />
+</p>
 
 
 <div align="center">
