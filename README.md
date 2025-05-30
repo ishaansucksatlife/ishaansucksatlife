@@ -2,7 +2,9 @@
 
 
 
-![standard](https://github.com/user-attachments/assets/0d80459d-3be1-4781-b6d1-173750ebb2ed)
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=34&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=900&height=200&lines=System%3A+Plasma+Online+%F0%9F%8C%80;Hi%2C+I'm+Plasma+%E2%9A%A1;Innovating+Through+Chaos+%F0%9F%A7%A9)](https://git.io/typing-svg)
+</div>
 
 
 
