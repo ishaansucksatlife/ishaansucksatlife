@@ -50,3 +50,13 @@ plasma.say_hello()
 - ☕ Debugging Method : Espresso-fueled Code Review & Strategic Console Logging
 - 🎉 Vibe : "Currently pretending I know what I'm doing (It's not working)."
 </details>
+
+## 🌐 Connect & Collaborate
+<p align="center">
+  <a href="https://discord.gg/HazvsVHxyE"  target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://github.com/ishaansucksatlife" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
