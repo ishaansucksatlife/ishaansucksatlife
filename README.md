@@ -173,12 +173,6 @@ plasma.say_hello()
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ishaansucksatlife&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true)](https://github.com/ishaansucksatlife)
 
-<div align="center">
-  <img src="https://i.imgur.com/0MAtmBh.png">
-  <h4>🚀 "Code is poetry written in logic" 🚀</h4>
-  <img src="https://i.imgur.com/0MAtmBh.png">
-</div>
-
 *_My GitHub activity — mostly made of caffeine and last-minute commits._*
 
 <div align="center">
