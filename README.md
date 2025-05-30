@@ -167,3 +167,9 @@ plasma.say_hello()
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ishaansucksatlife&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true)](https://github.com/ishaansucksatlife)
 
 *_My GitHub activity — mostly made of caffeine and last-minute commits._*
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ishaansucksatlife&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
