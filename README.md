@@ -64,3 +64,20 @@ plasma.say_hello()
 </a>
 </a>
 </p>
+
+## 💻 Technology Arsenal
+
+<details>
+<summary>🧬 Languages & Frameworks (Where Chaos Begins)</summary>
+<br>
+
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+
+</details>
