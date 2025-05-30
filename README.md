@@ -154,12 +154,12 @@ plasma.say_hello()
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ishaansucksatlife&show_icons=true&count_private=true&hide_border=true&title_color=2d99ae&icon_color=2d99ae&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaansucksatlife&layout=compact&hide_border=true&title_color=2d99ae&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ishaansucksatlife&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaansucksatlife&layout=compact&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaansucksatlife&theme=radical&hide_border=true&stroke=2d99ae&background=0D1117&ring=2d99ae&fire=2d99ae&currStreakLabel=2d99ae" alt="Streak Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaansucksatlife&theme=radical&hide_border=true&stroke=00FFFF&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="Streak Stats"/>
 </div>
 
 ## 📈 Contribution Graph
