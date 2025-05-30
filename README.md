@@ -178,10 +178,11 @@ plasma.say_hello()
   <h4>🚀 "Code is poetry written in logic" 🚀</h4>
   <img src="https://i.imgur.com/0MAtmBh.png">
 </div>
+
 *_My GitHub activity — mostly made of caffeine and last-minute commits._*
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=34&pause=5000&color=00FFFF&center=true&vCenter=true&width=900&height=200&lines=System%3A+Philosophy+Loaded+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=5000&color=00FFFF&center=true&vCenter=true&width=900&height=200&lines=System%3A+Philosophy+Loaded+%E2%9C%85" alt="Typing SVG" />
 </div>
 
 <div align="center">
