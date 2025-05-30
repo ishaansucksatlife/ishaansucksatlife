@@ -5,7 +5,7 @@
 </div>
 
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/HazvsVHxyE)](https://discord/invite/HazvsVHxyE)
+[![Join our Discord server!](https://invidget.switchblade.xyz/HazvsVHxyE)](https://discord.com/invite/HazvsVHxyE)
 
 
 <div align="center">
