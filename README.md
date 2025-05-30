@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1190655443832414336?theme=dark&borderRadius=&ignoreAppId=&showDisplayName=true&idleMessage=)](https://discord.com/users/1190655443832414336)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1190655443832414336?showDisplayName=true&theme=dark)](https://discord.com/users/1190655443832414336)
 
 
 
