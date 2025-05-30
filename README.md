@@ -48,5 +48,4 @@ plasma.say_hello()
 - 💻 Tools of Choice : VS Code, Terminal, Coffee Mug
 - 🔧 Always Building : Automation scripts, CLI tools, and tiny-but-powerful APIs
 - ☕ Debugging Method : Espresso-fueled Code Review & Strategic Console Logging
-- 🎉 Vibe : "Currently pretending I know what I'm doing (It's not working)."
-  <details>
+- 🎉 Vibe : "Currently pretending I know what I'm doing (It's not working)." <details>
