@@ -59,4 +59,7 @@ plasma.say_hello()
   <a href="https://github.com/ishaansucksatlife" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://t.me/ishaansucksatlife"  target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 </p>
