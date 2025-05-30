@@ -161,3 +161,9 @@ plasma.say_hello()
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaansucksatlife&theme=radical&hide_border=true&stroke=2d99ae&background=0D1117&ring=2d99ae&fire=2d99ae&currStreakLabel=2d99ae" alt="Streak Stats"/>
 </div>
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ishaansucksatlife&bg_color=0D1117&color=2d99ae&line=2d99ae&point=ffffff&area=true&hide_border=true)](https://github.com/ishaansucksatlife)
+
+*_My GitHub activity — mostly made of caffeine and last-minute commits._*
