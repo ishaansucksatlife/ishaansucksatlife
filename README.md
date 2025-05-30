@@ -186,5 +186,5 @@ plasma.say_hello()
 </div>
 
 <h3 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=150&section=footer" />
 </h3>
