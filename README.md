@@ -104,3 +104,16 @@ plasma.say_hello()
 ![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-F80000.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle-Cloud-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 </details>
+
+<details>
+<summary>🗄️ Databases (Where Data Goes to Hide)</summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B5C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
+</details>
