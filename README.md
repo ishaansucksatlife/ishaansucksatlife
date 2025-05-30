@@ -179,11 +179,12 @@ plasma.say_hello()
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=5000&color=00FFFF&center=true&vCenter=true&width=900&height=200&lines=System%3A+Philosophy+Loaded+%E2%9C%85" alt="Typing SVG" />
 </div>
 
-<div align="center">
+<h3 align="center">
   <img src="https://i.imgur.com/0MAtmBh.png" />
+  
   <h4>⚡ "Code is chaos waiting to compile" 🧪</h4>
   <img src="https://i.imgur.com/0MAtmBh.png" />
-</div>
+</h3>
 
 <h3 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer" />
