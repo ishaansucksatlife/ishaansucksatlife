@@ -5,6 +5,7 @@
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31b6xwu4m7ss64quionf2uuj7jhy&cover_image=true&theme=novatorem&bar_color=00FFFF&bar_color_cover=true)](https://open.spotify.com/user/31b6xwu4m7ss64quionf2uuj7jhy)
 
 
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=34&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=200&lines=System%3A+Plasma+Online+%F0%9F%8C%8C;Hi%2C+I'm+Plasma+%E2%9A%A1;Innovating+Through+Chaos+%F0%9F%A7%A9" alt="Typing SVG" />
 </div>
