@@ -176,14 +176,14 @@ plasma.say_hello()
 *_My GitHub activity — mostly made of caffeine and last-minute commits._*
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=5000&color=00FFFF&center=true&vCenter=true&width=900&height=200&lines=System%3A+Philosophy+Loaded+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=34&pause=5000&color=00FFFF&center=true&vCenter=true&width=900&height=200&lines=System%3A+Philosophy+Loaded+%E2%9C%85" alt="Typing SVG" />
 </div>
 
-<h3 align="center">
-  <img src="https://i.imgur.com/0MAtmBh.png" />
+<div align="center">
+  <img src="https://i.imgur.com/0MAtmBh.png" width="600" />
   <h4>⚡ "Code is chaos waiting to compile" 🧪</h4>
-  <img src="https://i.imgur.com/0MAtmBh.png" />
-</h3>
+  <img src="https://i.imgur.com/0MAtmBh.png" width="600" />
+</div>
 
 <h3 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer" />
