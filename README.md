@@ -21,3 +21,33 @@
   <img src="https://img.shields.io/github/followers/ishaansucksatlife?color=2d99ae&style=for-the-badge&logo=github&label=Followers&labelColor=001c44" />
   <img src="https://img.shields.io/github/stars/ishaansucksatlife?color=2d99ae&style=for-the-badge&logo=github&label=Stars&labelColor=001c44" />
 </p>
+
+</details>
+<summary>☕ About Plasma — Code + Coffee</summary>
+<br>
+
+```python
+class CoffeePoweredEngineer:
+    def __init__(self):
+        self.alias = "Plasma"
+        self.mood = "Caffeinated & Proscrastinating"
+        self.languages = ["Python", "JavaScript", "Node.js"]
+        self.frontend_tools = ["HTML", "CSS", "React"]
+        self.passion = "Innovating through Chaos"
+        self.fuel_source = "☕ Black Coffee (extra shots encouraged)"
+
+    def say_hello(self):
+        print("System: Plasma Online ⚡")
+        print("Status: Coffee at 100% | Productivity at 0%")
+        print("Let’s build something chaotic. And caffeinated.")
+
+plasma = CoffeePoweredEngineer()
+plasma.say_hello()
+```
+☕ Currently Brewing : Useful Tools & Experimental Solutions
+💻 Tools of Choice : VS Code, Terminal, Coffee Mug
+🔧 Always Building : Automation scripts, CLI tools, and tiny-but-powerful APIs
+☕ Debugging Method : Espresso-fueled Code Review & Strategic Console Logging
+🎉 Vibe : "Currently pretending I know what I'm doing (It's not working)." 
+</details>
+
