@@ -86,3 +86,21 @@ plasma.say_hello()
 ![Lua](https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 </details>
+
+<details>
+<summary>☁️ Cloud & Chaos Engineering (Because Localhost Isn’t Enough)</summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google-Cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2b3137.svg?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/render-4A72C4.svg?style=for-the-badge&logo=render&logoColor=white)
+![Glitch](https://img.shields.io/badge/glitch-6633CC.svg?style=for-the-badge&logo=glitch&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM-Cloud-006699.svg?style=for-the-badge&logo=ibm&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle-Cloud-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+</details>
