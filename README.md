@@ -85,6 +85,8 @@ plasma.say_hello()
 ![Ruby](https://img.shields.io/badge/ruby-CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
+*_"I write code in every language — even the ones that fight back."_*
+
 </details>
 
 <details>
@@ -103,6 +105,9 @@ plasma.say_hello()
 ![Glitch](https://img.shields.io/badge/glitch-6633CC.svg?style=for-the-badge&logo=glitch&logoColor=white)
 ![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-F80000.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle-Cloud-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
+*_"I host things everywhere. Including sometimes on my fridge via IoT and caffeine."_*
+
 </details>
 
 <details>
@@ -115,6 +120,9 @@ plasma.say_hello()
 ![Redis](https://img.shields.io/badge/redis-DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-003B5C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
+*_"I store things. Sometimes on purpose."_*  
+*_"Bonus: Has accidentally queried production without WHERE clauses."*  
 
 </details>
 
@@ -137,5 +145,8 @@ plasma.say_hello()
 ![Glitch](https://img.shields.io/badge/glitch-6633CC.svg?style=for-the-badge&logo=glitch&logoColor=white)
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-49a7c1.svg?style=for-the-badge&logo=codesandbox&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+*_"I use tools. Some might say too many tools."_*  
+*_"Ctrl+Alt+F5 is my spiritual practice."_*
 
 </details>
