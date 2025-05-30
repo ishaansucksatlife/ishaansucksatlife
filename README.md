@@ -49,4 +49,4 @@ plasma.say_hello()
 - 🔧 Always Building : Automation scripts, CLI tools, and tiny-but-powerful APIs
 - ☕ Debugging Method : Espresso-fueled Code Review & Strategic Console Logging
 - 🎉 Vibe : "Currently pretending I know what I'm doing (It's not working)." 
-- <details>
+<details>
