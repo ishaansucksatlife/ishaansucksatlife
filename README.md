@@ -184,3 +184,7 @@ plasma.say_hello()
   <h4>⚡ "Code is chaos waiting to compile" 🧪</h4>
   <img src="https://i.imgur.com/0MAtmBh.png" />
 </div>
+
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer" />
+</h3>
