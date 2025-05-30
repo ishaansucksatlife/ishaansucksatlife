@@ -14,3 +14,18 @@
   💻 Code Enthusiast | 🐍 Python Enthusiast | 🌐 Web Dev Explorer
   <img src="https://i.imgur.com/0MAtmBh.png" />
 </h3>
+
+## 🎭 Profile Stats & Achievements
+
+<p align="center">
+  <!-- Visitor Badge -->
+  <a href="https://visitorbadge.io/path/ishaansucksatlife"> 
+    <img src="https://api.visitorbadge.io/api/visitors?path=ishaansucksatlife&label=Profile+Views&labelColor=001c44&countColor=2d99ae" />
+  </a>
+
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/ishaansucksatlife?color=2d99ae&style=for-the-badge&logo=github&label=Followers&labelColor=001c44" />
+
+  <!-- GitHub Stars -->
+  <img src="https://img.shields.io/github/stars/ishaansucksatlife?color=2d99ae&style=for-the-badge&logo=github&label=Stars&labelColor=001c44" />
+</p>
