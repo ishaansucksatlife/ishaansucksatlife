@@ -16,7 +16,6 @@
 </h3>
 
 ## 🎭 Profile Stats & Achievements
-![Visitors](https://api.visitorbadge.io/api/visitors?path=ishaansucksatlife&labelColor=%23001c44&countColor=%232d99ae)
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=ishaansucksatlife&labelColor=%23001c44&countColor=%232d99ae" />
   <img src="https://img.shields.io/github/followers/ishaansucksatlife?color=2d99ae&style=for-the-badge&logo=github&label=Followers&labelColor=001c44" />
