@@ -91,6 +91,13 @@ plasma.say_hello()
   </a>
 </div>
 
+<div align="center">
+  <a href="https://discord.gg/HazvsVHxyE">
+    <img src="https://discord.com/api/guilds/[1371828176900325416]/widget.png?style=banner2" alt="Join our Discord server!"/>
+  </a>
+</div>
+
+
 ## 💻 Technology Arsenal
 
 <details>
