@@ -85,7 +85,6 @@ plasma.say_hello()
 </a>
 </p>
 
-<br><br>
 <div align="center">
   <a href="https://discord.gg/HazvsVHxyE">
     <img src="https://invidget.switchblade.xyz/HazvsVHxyE" alt="Join our Discord server!">
