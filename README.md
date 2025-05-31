@@ -193,7 +193,6 @@ plasma.say_hello()
   <img alt="github-snake" src="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/github-snake.svg" />
 </picture>
 
-
 *_My GitHub activity — mostly made of caffeine and last-minute commits._*
 
 <div align="center">
