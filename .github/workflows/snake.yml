@@ -1,5 +1,8 @@
 name: Generate Snake
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # Runs every 12 hours
@@ -9,11 +12,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate the snake files in './dist/'
+      - name: Generate snake files in './dist/'
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -22,7 +26,10 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Push new files to the output branch
+      - name: List dist contents (debug)
+        run: ls -l dist
+
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
