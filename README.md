@@ -191,14 +191,6 @@ plasma.say_hello()
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ishaansucksatlife&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true)](https://github.com/ishaansucksatlife)
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/pacman-contribution-graph.svg">
-</picture>
-
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/github-snake-dark.svg" />
@@ -206,12 +198,6 @@ plasma.say_hello()
     <img alt="github-snake" src="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/github-snake.svg" />
   </picture>
 </p>
-
-<p align="center">
-  <img alt="github-snake-gif" src="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/github-snake.gif" />
-</p>
-
-
 
 *_My GitHub activity — mostly made of caffeine and last-minute commits._*
 
