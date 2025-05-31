@@ -28,7 +28,7 @@
 
 <h3 align="center">
   <img src="https://i.imgur.com/0MAtmBh.png" />
-  
+   <br><br>
   💻 Code Enthusiast | 🐍 Python Enthusiast | 🌐 Web Dev Explorer
   <img src="https://i.imgur.com/0MAtmBh.png" />
 </h3>
