@@ -3,17 +3,13 @@
 </h3>
 
 <div align="center">
-  <!-- Top image -->
   <img src="https://i.imgur.com/0MAtmBh.png" width="600" />
-
-  <!-- Discord presence badge (clickable) -->
   <a href="https://discord.com/users/1190655443832414336">
-    <img src="https://lanyard.cnrad.dev/api/1190655443832414336?showDisplayName=true&theme=dark" alt="Discord Presence" width="600" />
+    <img src="https://lanyard.cnrad.dev/api/1190655443832414336?showDisplayName=true&theme=dark" alt="Discord Presence"/>
   </a>
-
-  <!-- Bottom image -->
   <img src="https://i.imgur.com/0MAtmBh.png" width="600" />
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=34&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=200&lines=System%3A+Plasma+Online+%F0%9F%8C%8C;Hi%2C+I'm+Plasma+%E2%9A%A1;Innovating+Through+Chaos+%F0%9F%A7%A9" alt="Typing SVG" />
