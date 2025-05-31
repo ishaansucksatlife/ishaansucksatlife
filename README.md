@@ -71,6 +71,7 @@ plasma.say_hello()
 </details>
 
 ## 🌐 Connect & Collaborate
+<br><br>
 <p align="center">
   <a href="https://discord.gg/HazvsVHxyE"  target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
@@ -84,7 +85,7 @@ plasma.say_hello()
 </a>
 </p>
 
-
+<br><br>
 <div align="center">
   <a href="https://discord.gg/HazvsVHxyE">
     <img src="https://invidget.switchblade.xyz/HazvsVHxyE" alt="Join our Discord server!">
