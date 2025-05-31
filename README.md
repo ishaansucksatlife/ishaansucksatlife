@@ -214,7 +214,9 @@ plasma.say_hello()
 </div>
   
 <div align="center">
+  
   *_My GitHub activity — mostly made of caffeine and last-minute commits._*
+  
 </div>
 
 <div align="center">
