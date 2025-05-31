@@ -3,10 +3,25 @@
 </h3>
 
 <div align="center">
+  <!-- Top image -->
   <img src="https://i.imgur.com/0MAtmBh.png" width="600" />
+
+  <!-- Spacer for vertical centering effect -->
+  <div style="height: 24px;"></div>
+
+  <!-- Discord presence badge (centered horizontally, default size) -->
   <a href="https://discord.com/users/1190655443832414336">
-    <img src="https://lanyard.cnrad.dev/api/1190655443832414336?showDisplayName=true&theme=dark" alt="Discord Presence"/>
+    <img 
+      src="https://lanyard.cnrad.dev/api/1190655443832414336?showDisplayName=true&theme=dark" 
+      alt="Discord Presence"
+      style="display: block; margin-left: auto; margin-right: auto;" 
+    />
   </a>
+
+  <!-- Spacer for vertical centering effect -->
+  <div style="height: 24px;"></div>
+
+  <!-- Bottom image -->
   <img src="https://i.imgur.com/0MAtmBh.png" width="600" />
 </div>
 
