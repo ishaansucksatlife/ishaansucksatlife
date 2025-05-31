@@ -30,8 +30,8 @@
   <img src="https://i.imgur.com/0MAtmBh.png" />
   <br><br>
   💻 Code Enthusiast | 🐍 Python Enthusiast | 🌐 Web Dev Explorer
-  <img src="https://i.imgur.com/0MAtmBh.png" />
   <br><br>
+  <img src="https://i.imgur.com/0MAtmBh.png" />
 </h3>
 
 ## 🎭 Profile Stats & Achievements
