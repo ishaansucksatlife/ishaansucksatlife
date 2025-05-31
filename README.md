@@ -213,8 +213,9 @@ plasma.say_hello()
   </picture>
 </div>
   
-
-*_My GitHub activity — mostly made of caffeine and last-minute commits._*
+<div align="center">
+  *_My GitHub activity — mostly made of caffeine and last-minute commits._*
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=5000&color=00FFFF&center=true&vCenter=true&width=900&height=200&lines=System%3A+Philosophy+Loaded+%E2%9C%85" alt="Typing SVG" />
