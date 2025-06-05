@@ -40,7 +40,8 @@
     <img src="https://api.visitorbadge.io/api/visitors?path=ishaansucksatlife&labelColor=%23001c44&countColor=%232d99ae" />
   </a>
   <a href="https://github.com/ishaansucksatlife?tab=followers">
-    <img src="https://img.shields.io/github/followers/ishaansucksatlife?color=2d99ae&style=for-the-badge&logo=github&label=Followers&labelColor=001c44" />
+    <img alt="followers" title="Follow me on GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/ishaansucksatlife?color=2d99ae&labelColor=001c44&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
   </a>
   <a href="https://github.com/ishaansucksatlife?tab=repositories">
     <img src="https://img.shields.io/github/stars/ishaansucksatlife?color=2d99ae&style=for-the-badge&logo=github&label=Stars&labelColor=001c44" />
