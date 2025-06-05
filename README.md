@@ -36,10 +36,17 @@
 
 ## 🎭 Profile Stats & Achievements
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=ishaansucksatlife&labelColor=%23001c44&countColor=%232d99ae" />
-  <img src="https://img.shields.io/github/followers/ishaansucksatlife?color=2d99ae&style=for-the-badge&logo=github&label=Followers&labelColor=001c44" />
-  <img src="https://img.shields.io/github/stars/ishaansucksatlife?color=2d99ae&style=for-the-badge&logo=github&label=Stars&labelColor=001c44" />
+  <a href="https://github.com/ishaansucksatlife">
+    <img src="https://api.visitorbadge.io/api/visitors?path=ishaansucksatlife&labelColor=%23001c44&countColor=%232d99ae" />
+  </a>
+  <a href="https://github.com/ishaansucksatlife?tab=followers">
+    <img src="https://img.shields.io/github/followers/ishaansucksatlife?color=2d99ae&style=for-the-badge&logo=github&label=Followers&labelColor=001c44" />
+  </a>
+  <a href="https://github.com/ishaansucksatlife?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ishaansucksatlife?color=2d99ae&style=for-the-badge&logo=github&label=Stars&labelColor=001c44" />
+  </a>
 </p>
+
 
 <details>
 <summary>☕ About Plasma — Code + Coffee</summary>
