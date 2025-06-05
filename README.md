@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ishaansucksatlife&data=followers,repositories,stars,commits&theme=darkmode)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ishaansucksatlife&data=followers,repositories,stars,commits&theme=darkmode)
 
 </div>
 
