@@ -35,21 +35,21 @@
 </h3>
 
 ## 🎭 Profile Stats & Achievements
+## 🎭 Profile Stats & Achievements
 <p align="center">
   <a href="https://github.com/ishaansucksatlife">
-    <img alt="visitors" title="Profile Visitors"
+    <img alt="Visitors" title="Profile Visitors"
       src="https://custom-icon-badges.demolab.com/badge/Visitors-?color=2d99ae&labelColor=001c44&style=for-the-badge&logo=person&logoColor=white"/>
   </a>
   <a href="https://github.com/ishaansucksatlife?tab=followers">
-    <img alt="followers" title="Follow me on GitHub"
+    <img alt="Followers" title="Follow me on GitHub"
       src="https://custom-icon-badges.demolab.com/github/followers/ishaansucksatlife?color=2d99ae&labelColor=001c44&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
   </a>
   <a href="https://github.com/ishaansucksatlife?tab=repositories">
-    <img alt="stars" title="Total Stars"
+    <img alt="Stars" title="Total Stars"
       src="https://custom-icon-badges.demolab.com/github/stars/ishaansucksatlife?color=2d99ae&labelColor=001c44&style=for-the-badge&logo=star&label=Stars&logoColor=white"/>
   </a>
 </p>
-
 
 
 <details>
