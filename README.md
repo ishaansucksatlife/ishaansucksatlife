@@ -5,8 +5,7 @@
 <div align="center">
   <img src="https://i.imgur.com/0MAtmBh.png" />
   <br><br>
-  <a href="https://discord.com/users/1190655443832414336">
-    <img src="(https://lanyard.cnrad.dev/api/1190655443832414336?showDisplayName=true" alt="Discord Presence"/>
+  <a href="https://discord.com/users/1190655443832414336"><img src="https://lanyard.cnrad.dev/api/1190655443832414336?showDisplayName=true" /></a>
   </a>
 </div>
 
