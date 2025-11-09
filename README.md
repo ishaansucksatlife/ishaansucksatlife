@@ -77,17 +77,13 @@ dev = Developer()
 - **Long-term**: Build complete full-stack applications
 - **Skills Focus**: Modern web development and cloud technologies
 
-<br>
-<img src="https://i.imgur.com/0MAtmBh.png" alt="divider" />
-<br>
-
+## ⚡ Current Workflow
 - ☕ Currently Brewing: Useful tools and experimental solutions
 - 💻 Tools of Choice: VS Code, terminal, and coffee mug
 - 🔧 Always Building: Automation scripts, CLI tools, and tiny-but-powerful APIs
 - ☕ Debugging Method: Coffee-powered code review and strategic console logging
 - 🎉 Vibe: "Currently pretending I know what I'm doing (and somehow it's working)"
 </details>
-
 
 ## 🌐 Connect & Collaborate
 
