@@ -49,7 +49,7 @@
 </p>
 
 
-```markdown
+
 <details>
 <summary>☕ About Plasma — Code + Coffee</summary>
 <br>
@@ -85,11 +85,9 @@ dev = Developer()
 - 💻 Tools of Choice: VS Code, terminal, and coffee mug
 - 🔧 Always Building: Automation scripts, CLI tools, and tiny-but-powerful APIs
 - ☕ Debugging Method: Coffee-powered code review and strategic console logging
-- 🐼 Vibe: "Currently pretending I know what I'm doing (and somehow it's working)"
+- 🎉 Vibe: "Currently pretending I know what I'm doing (and somehow it's working)"
 </details>
 ```
-
-The divider line visually separates the Learning Goals from your personal workflow notes, making it much cleaner and more organized!
 
 ## 🌐 Connect & Collaborate
 
