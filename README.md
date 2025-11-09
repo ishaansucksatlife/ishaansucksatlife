@@ -50,6 +50,9 @@
 
 
 
+Here's the updated "About Plasma" section with proper separation:
+
+```markdown
 <details>
 <summary>☕ About Plasma — Code + Coffee</summary>
 <br>
@@ -71,12 +74,25 @@ class Developer:
 
 dev = Developer()
 ```
+
+## 🎯 Learning Goals
+- **Short-term**: Master React & Node.js fundamentals  
+- **Long-term**: Build complete full-stack applications
+- **Skills Focus**: Modern web development and cloud technologies
+
+<br>
+<img src="https://i.imgur.com/0MAtmBh.png" alt="divider" />
+<br>
+
 - ☕ Currently Brewing: Useful tools and experimental solutions
 - 💻 Tools of Choice: VS Code, terminal, and coffee mug
 - 🔧 Always Building: Automation scripts, CLI tools, and tiny-but-powerful APIs
 - ☕ Debugging Method: Coffee-powered code review and strategic console logging
-- 🎉 Vibe: "Currently pretending I know what I'm doing (and somehow it's working)"
+- 🐼 Vibe: "Currently pretending I know what I'm doing (and somehow it's working)"
 </details>
+```
+
+The divider line visually separates the Learning Goals from your personal workflow notes, making it much cleaner and more organized!
 
 ## 🌐 Connect & Collaborate
 
