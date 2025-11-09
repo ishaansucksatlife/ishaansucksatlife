@@ -72,9 +72,7 @@ class Developer:
 dev = Developer()
 ```
 
-## 🎓 Student Developer
-
-<div align="center">
+## <div align="center">🎓 Student Developer</div>
 
 **Aspiring Full-Stack Developer | Continuous Learner | Project Builder**
 
@@ -82,8 +80,6 @@ dev = Developer()
 - 🚀 **Focus**: Building practical applications and learning modern web technologies
 - 💡 **Approach**: Hands-on learning through real projects and experimentation
 - 🎯 **Path**: Developing skills in full-stack JavaScript and cloud platforms
-
-</div>
 
 ## 🎯 Learning Goals
 - **Short-term**: Master React & Node.js fundamentals  
