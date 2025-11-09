@@ -79,12 +79,19 @@ dev = Developer()
 ## 🌐 Connect & Collaborate
 
 <p align="center">
+  <a href="mailto:pandemonium.plasma@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+<p align="center">
   <a href="https://discord.gg/HazvsVHxyE"  target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+  
   <a href="https://github.com/ishaansucksatlife" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  
   <a href="https://reddit.com/user/ishaansucksatlife"  target="_blank">
   <img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
 </a>
