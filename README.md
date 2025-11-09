@@ -72,9 +72,11 @@ class Developer:
 dev = Developer()
 ```
 
-## <div align="center">🎓 Student Developer</div>
+---
 
-**Aspiring Full-Stack Developer | Continuous Learner | Project Builder**
+## 🎓 Student Developer
+
+**Aspiring Full-Stack Developer | Continuous Learner | Project Builder | High School Coder | Self-Taught Programmer**
 
 - 🎓 **Background**: Student developer passionate about software engineering
 - 🚀 **Focus**: Building practical applications and learning modern web technologies
