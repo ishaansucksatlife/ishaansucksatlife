@@ -49,9 +49,6 @@
 </p>
 
 
-
-Here's the updated "About Plasma" section with proper separation:
-
 ```markdown
 <details>
 <summary>☕ About Plasma — Code + Coffee</summary>
