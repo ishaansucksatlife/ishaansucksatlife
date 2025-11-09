@@ -53,28 +53,27 @@
 <br>
 
 ```python
-class CoffeePoweredEngineer:
+class Developer:
     def __init__(self):
-        self.alias = "Plasma"
-        self.mood = "Caffeinated & Proscrastinating"
-        self.languages = ["Python", "JavaScript", "Node.js"]
-        self.frontend_tools = ["HTML", "CSS", "React"]
-        self.passion = "Innovating through Chaos"
-        self.fuel_source = "☕ Black Coffee (extra shots encouraged)"
+        self.name = "Plasma"
+        self.focus = "Web Development"
+        self.current_work = "Building projects and learning new technologies"
+        self.tech_stack = {
+            "proficient": ["Python", "HTML/CSS", "JavaScript"],
+            "learning": ["React", "Node.js", "TypeScript"],
+            "tools": ["Vercel", "Netlify", "GitHub Pages"]
+        }
+    
+    def get_status(self):
+        return "Building useful things and expanding skills"
 
-    def say_hello(self):
-        print("System: Plasma Online ⚡")
-        print("Status: Coffee at 100% | Productivity at 0%")
-        print("Let’s build something chaotic. And caffeinated.")
-
-plasma = CoffeePoweredEngineer()
-plasma.say_hello()
+dev = Developer()
 ```
-- ☕ Currently Brewing : Useful Tools & Experimental Solutions
-- 💻 Tools of Choice : VS Code, Terminal, Coffee Mug
-- 🔧 Always Building : Automation scripts, CLI tools, and tiny-but-powerful APIs
-- ☕ Debugging Method : Espresso-fueled Code Review & Strategic Console Logging
-- 🎉 Vibe : "Currently pretending I know what I'm doing (It's not working)."
+- ☕ Currently Brewing: Useful tools and experimental solutions
+- 💻 Tools of Choice: VS Code, terminal, and coffee mug
+- 🔧 Always Building: Automation scripts, CLI tools, and tiny-but-powerful APIs
+- ☕ Debugging Method: Coffee-powered code review and strategic console logging
+- 🎉 Vibe: "Currently pretending I know what I'm doing (and somehow it's working)"
 </details>
 
 ## 🌐 Connect & Collaborate
@@ -99,11 +98,10 @@ plasma.say_hello()
 </div>
 
 
-
 ## 💻 Technology Arsenal
 
 <details>
-<summary>🧬 Languages & Frameworks (Where Chaos Begins)</summary>
+<summary>🧬 Languages & Frameworks</summary>
 <br>
 
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -113,19 +111,16 @@ plasma.say_hello()
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-003B5C.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-*_I write code in every language — even the ones that fight back._*
+*Always exploring new languages and frameworks*
 
 </details>
 
 <details>
-<summary>☁️ Cloud & Chaos Engineering (Because Localhost Isn’t Enough)</summary>
+<summary>☁️ Cloud & Deployment</summary>
 <br>
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -138,38 +133,32 @@ plasma.say_hello()
 ![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2b3137.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Render](https://img.shields.io/badge/render-4A72C4.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Glitch](https://img.shields.io/badge/glitch-6633CC.svg?style=for-the-badge&logo=glitch&logoColor=white)
-![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-F80000.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle-Cloud-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
-*_I host things everywhere. Including sometimes on my fridge via IoT and caffeine._*
+*Deploying across multiple platforms and services*
 
 </details>
 
 <details>
-<summary>🗄️ Databases (Where Data Goes to Hide)</summary>
+<summary>🗄️ Databases</summary>
 <br>
 
-![PostgreSQL](https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-003B5C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
-*_I store things. Sometimes on purpose._*  
-*Bonus: Has accidentally queried production without WHERE clauses.*  
+*Working with various database systems and storage solutions*
 
 </details>
 
 <details>
-<summary>🛠️ Tools & Platforms (The Stuff I Pretend To Understand)</summary>
+<summary>🛠️ Tools & Platforms</summary>
 <br>
 
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -181,10 +170,10 @@ plasma.say_hello()
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-49a7c1.svg?style=for-the-badge&logo=codesandbox&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-*_I use tools. Some might say too many tools._*  
-*_Ctrl+Alt+F5 is my spiritual practice._*
+*Using the right tools for each project and workflow*
 
 </details>
+
 
 ## 📊 Performance Metrics
 
