@@ -87,7 +87,7 @@ dev = Developer()
 - ☕ Debugging Method: Coffee-powered code review and strategic console logging
 - 🎉 Vibe: "Currently pretending I know what I'm doing (and somehow it's working)"
 </details>
-```
+
 
 ## 🌐 Connect & Collaborate
 
