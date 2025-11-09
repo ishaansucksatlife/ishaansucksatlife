@@ -30,6 +30,8 @@
   <br><br>
   💻 Code Enthusiast | 🐍 Python Enthusiast | 🌐 Web Dev Explorer
   <br><br>
+  <p align="center" style="font-size: 16px; color: #00FFFF;">
+    Building practical tools and learning full-stack development through hands-on projects
   <img src="https://i.imgur.com/0MAtmBh.png" />
 </h3>
 
