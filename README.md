@@ -210,6 +210,10 @@ dev = Developer()
 </div>
 
 <div align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=ishaansucksatlife&theme=dark&title_color=00FFFF&bg_color=0d1117&text_color=c9d1d9" alt="Contribution Stats" />
+</div>
+
+<div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaansucksatlife&theme=radical&hide_border=true&stroke=00FFFF&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="Streak Stats"/>
 </div>
 
