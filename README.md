@@ -204,7 +204,6 @@ dev = Developer()
 
 
 ## 📊 Performance Metrics
-
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api?username=ishaansucksatlife&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=00FFFF&icon_color=FE428E&text_color=FE428E">
     <img align="left" width="45%" src="https://github-stats-extended.vercel.app/api?username=ishaansucksatlife&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=00FFFF&icon_color=FE428E&text_color=FE428E&title=The%20Numbers" alt="GitHub Stats" />
@@ -214,7 +213,7 @@ dev = Developer()
   </a>
 </p>
 
-<br><br>
+<br><br><br>
 
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com/?user=ishaansucksatlife&theme=neon&hide_border=true&mode=weekly&background=00000000&sideNums=FE428E&dates=94DED9&currStreakNum=F8D847&currStreakLabel=00FFFF&ring=00FFFF&stroke=06888B&sideLabels=FE428E" alt="Streak Stats"/>
@@ -223,9 +222,8 @@ dev = Developer()
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=ishaansucksatlife&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=ishaansucksatlife&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
-
 
 ## 📈 Contribution Graph
 
