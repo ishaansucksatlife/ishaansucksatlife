@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://i.imgur.com/0MAtmBh.png" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=34&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=200&lines=System%3A+Plasma+Online+%F0%9F%8C%8C;Hi%2C+I'm+Plasma+%E2%9A%A1;Innovating+Through+Chaos+%F0%9F%A7%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=800&color=00FFFF&center=true&vCenter=true&width=700&height=160&lines=Planning...;Coding...;Debugging...;Deploying..." alt="Typing SVG" />
 
 </div>
 
@@ -28,10 +28,11 @@
 <h3 align="center">
   <img src="https://i.imgur.com/0MAtmBh.png" />
   <br><br>
-  💻 Code Enthusiast | 🐍 Python Enthusiast | 🌐 Web Dev Explorer
+  High school coder · Full-stack in progress
   <br><br>
   <p align="center" style="font-size: 16px; color: #00FFFF;">
-    Building practical tools and learning full-stack development through hands-on projects
+    Learning full-stack development, one Stack Overflow tab at a time.
+  </p>
   <img src="https://i.imgur.com/0MAtmBh.png" />
 </h3>
 
@@ -244,12 +245,11 @@ dev = Developer()
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&pause=5000&color=00FFFF&center=true&vCenter=true&width=900&height=200&lines=System%3A+Philosophy+Loaded+%E2%9C%85" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=3000&color=00FFFF&center=true&vCenter=true&width=700&height=140&lines=Build.+Break.+Learn.+Repeat.;Progress+over+perfection.;Just+keep+building." alt="Typing SVG" />
 
 <div align="center">
   <img src="https://i.imgur.com/0MAtmBh.png" width="600" />
-  <h4>⚡ "Code is chaos waiting to compile" 🧪</h4>
+  <h4>☕ "It works on my machine." – Thanks for stopping by. ☕</h4>
   <img src="https://i.imgur.com/0MAtmBh.png" width="600" />
 </div>
 
