@@ -205,14 +205,19 @@ dev = Developer()
 
 ## 📊 Performance Metrics
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ishaansucksatlife&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaansucksatlife&layout=compact&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api?username=ishaansucksatlife&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=00FFFF&icon_color=FE428E&text_color=FE428E">
+    <img align="left" width="45%" src="https://github-stats-extended.vercel.app/api?username=ishaansucksatlife&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=00FFFF&icon_color=FE428E&text_color=FE428E&title=The%20Numbers" alt="GitHub Stats" />
+  </a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=ishaansucksatlife&layout=donut&langs_count=20&theme=neon&hide_border=true&bg_color=00000000">
+    <img align="right" width="45%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ishaansucksatlife&layout=donut&langs_count=20&theme=neon&hide_border=true&bg_color=00000000&title=My%20Stack" alt="Top Languages" />
+  </a>
+</p>
 
+<br><br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaansucksatlife&theme=radical&hide_border=true&stroke=00FFFF&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="Streak Stats"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=ishaansucksatlife&theme=neon&hide_border=true&mode=weekly&background=00000000&sideNums=FE428E&dates=94DED9&currStreakNum=F8D847&currStreakLabel=00FFFF&ring=00FFFF&stroke=06888B&sideLabels=FE428E" alt="Streak Stats"/>
 </div>
 
 ## 🏆 GitHub Achievements
