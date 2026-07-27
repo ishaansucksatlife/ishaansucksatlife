@@ -216,7 +216,7 @@ dev = Developer()
 <br><br><br>
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=ishaansucksatlife&theme=neon&hide_border=true&mode=weekly&background=00000000&sideNums=FE428E&dates=94DED9&currStreakNum=F8D847&currStreakLabel=00FFFF&ring=00FFFF&stroke=06888B&sideLabels=FE428E" alt="Streak Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=ishaansucksatlife&theme=neon&hide_border=true&mode=weekly&background=00000000&sideNums=FE428E&dates=94DED9&currStreakNum=F8D847&currStreakLabel=00FFFF&ring=00FFFF&stroke=06888B&sideLabels=FE428E" alt="Streak Stats"/>
 </div>
 
 ## 🏆 GitHub Achievements
