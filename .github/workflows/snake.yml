@@ -27,18 +27,19 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=%2300FFFF&color_dots=%23FFB6C1,%23FF69B4,%23FF1493,%23FF007F,%23FE428E
-            dist/github-snake-dark.svg?color_snake=%2300FFFF&color_dots=%23FFB6C1,%23FF69B4,%23FF1493,%23FF007F,%23FE428E
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: List generated files
         run: ls -l dist
 
-      - name: Deploy to output branch
+      - name: Deploy to output branch (force overwrite)
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
           create_repo: true
+          force_orphan: true
           commit_message: "chore: update snake animation [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
