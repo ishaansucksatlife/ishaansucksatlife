@@ -27,8 +27,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=%2300FFFF&color_dots=%2306888B,%2394DED9,%2300FFFF,%23FE428E,%23F8D847
-            dist/github-snake-dark.svg?color_snake=%2300FFFF&color_dots=%2306888B,%2394DED9,%2300FFFF,%23FE428E,%23F8D847
+            dist/github-snake.svg?color_snake=%2300FFFF&color_dots=%23FFB6C1,%23FF69B4,%23FF1493,%23FF007F,%23FE428E
+            dist/github-snake-dark.svg?color_snake=%2300FFFF&color_dots=%23FFB6C1,%23FF69B4,%23FF1493,%23FF007F,%23FE428E
 
       - name: List generated files
         run: ls -l dist
