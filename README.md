@@ -231,21 +231,15 @@ dev = Developer()
 
   [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ishaansucksatlife&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true)](https://github.com/ishaansucksatlife)
 
-</div>
-
 <div align="center">
-  
+
   ## 🐍 GitHub Contribution Snake
-  
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/github-snake.svg" width="800" style="max-width: 100%; height: auto;" />
   </picture>
-
-  <br/>
-
-  ![Cyan Snake GIF](https://raw.githubusercontent.com/ishaansucksatlife/ishaansucksatlife/output/github-snake.gif)
 
 </div>
   
