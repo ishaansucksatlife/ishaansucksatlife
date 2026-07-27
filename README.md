@@ -49,82 +49,85 @@
   </a>
 </p>
 
-
-
 <details>
-<summary>☕ About Plasma — Code + Coffee</summary>
+<summary>⚡ About Me</summary>
+<br>
+
+<div align="center">
+  <img src="https://i.imgur.com/0MAtmBh.png"/>
+</div>
 <br>
 
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Plasma"
-        self.focus = "Web Development"
-        self.current_work = "Building projects and learning new technologies"
-        self.tech_stack = {
-            "proficient": ["Python", "HTML/CSS", "JavaScript"],
+        self.role = "Student Developer"
+        self.path = "Full-Stack Engineering"
+        self.stack = {
+            "proficient": ["Python", "JavaScript", "HTML/CSS"],
             "learning": ["React", "Node.js", "TypeScript"],
-            "tools": ["Vercel", "Netlify", "GitHub Pages"]
+            "infrastructure": ["Vercel", "Netlify", "AWS"]
         }
-    
-    def get_status(self):
-        return "Building useful things and expanding skills"
-
-dev = Developer()
+        self.motto = "Build. Deploy. Iterate."
 ```
-
----
-
-## 🎓 Student Developer
-
-**Aspiring Full-Stack Developer | Continuous Learner | Project Builder | High School Coder | Self-Taught Programmer**
-
-- 🎓 **Background**: Student developer passionate about software engineering
-- 🚀 **Focus**: Building practical applications and learning modern web technologies
-- 💡 **Approach**: Hands-on learning through real projects and experimentation
-- 🎯 **Path**: Developing skills in full-stack JavaScript and cloud platforms
-
-## 🎯 Learning Goals
-- **Short-term**: Master React & Node.js fundamentals  
-- **Long-term**: Build complete full-stack applications
-- **Skills Focus**: Modern web development and cloud technologies
-
-## ⚡ Current Workflow
-- ☕ Currently Brewing: Useful tools and experimental solutions
-- 💻 Tools of Choice: VS Code, terminal, and coffee mug
-- 🔧 Always Building: Automation scripts, CLI tools, and tiny-but-powerful APIs
-- ☕ Debugging Method: Coffee-powered code review and strategic console logging
-- 🎉 Vibe: "Currently pretending I know what I'm doing (and somehow it's working)"
-</details>
-
-## 🌐 Connect & Collaborate
-
-<p align="center">
-  <a href="mailto:pandemonium.plasma@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-<p align="center">
-  <a href="https://discord.gg/HazvsVHxyE"  target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  
-  <a href="https://github.com/ishaansucksatlife" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  
-  <a href="https://reddit.com/user/ishaansucksatlife"  target="_blank">
-  <img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
-</a>
-</a>
+<p align="center" style="font-size: 16px; color: #00FFFF;">
+  Student developer building full‑stack applications — one commit at a time.
 </p>
 
 <div align="center">
-  <a href="https://discord.gg/HazvsVHxyE">
-    <img src="https://invite.casperiv.dev?inviteCode=HazvsVHxyE" alt="Join our Discord server!">
-  </a>
+   <img src="https://i.imgur.com/0MAtmBh.png"/>
 </div>
 
+## 🎓 Student Developer
+
+I’m a high school student with a strong interest in full‑stack development. I focus on writing clean, functional code and deploying real‑world projects. My learning is driven by building — I pick up new technologies by using them in practical applications, iterating until they work reliably.
+
+- **Background**  
+  Self‑taught developer with experience in Python, JavaScript, and modern frontend tools. Comfortable working across the stack and deploying to cloud platforms.
+
+- **Focus**  
+  Building applications that solve actual problems — from automation scripts and CLI tools to full‑stack web apps. Currently deepening my understanding of React, Node.js, and TypeScript.
+
+- **Approach**  
+  Learning by doing. Every project is an opportunity to explore something new, refine my workflow, and produce maintainable, well‑structured code.
+
+- **Path**  
+  Working toward becoming a well‑rounded engineer capable of designing and scaling systems from the ground up. Long‑term goal: ship useful, robust applications.
+
+
+
+## 🎯 Learning Goals
+
+**Short‑term**  
+Gain proficiency in React and Node.js. Build a solid foundation in TypeScript and modern JavaScript patterns.
+
+**Long‑term**  
+Develop and deploy complete full‑stack applications with secure authentication, database integration, and cloud hosting. Expand knowledge of system architecture and DevOps practices.
+
+**Skills Focus**  
+Modern web development, cloud infrastructure, and writing production‑ready code.
+
+
+
+## ⚙️ Current Workflow
+
+I manage the complete development lifecycle — from planning and prototyping to deployment and ongoing maintenance. My focus is on building scalable, maintainable applications with clean architecture, performance optimization, and user‑centric design. I integrate modern version control, continuous integration, and cloud deployment strategies to deliver reliable, production‑ready software.
+
+- **Tools**  
+  Leverage modern development environments (VS Code), distributed version control (Git), and robust cloud infrastructure (AWS, Vercel, Netlify) to streamline development and ensure seamless scalability.
+
+- **Process**  
+  Follow an agile, iterative methodology: Plan → Build → Test → Deploy → Iterate. Prioritize clean, well‑documented code, automated CI/CD pipelines, and continuous feedback to deliver high‑quality software efficiently.
+
+> *Clean code, clear goals, continuous improvement.*
+
+
+
+<div align="center">
+   <img src="https://i.imgur.com/0MAtmBh.png"/>
+</div>
+
+</details>
 
 ## 💻 Technology Arsenal
 
@@ -205,15 +208,16 @@ dev = Developer()
 
 ## 📊 Performance Metrics
 <p align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=ishaansucksatlife&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=00FFFF&icon_color=FE428E&text_color=FE428E">
+  <a href="https://github-stats-extended.vercel.app/api?username=ishaansucksatlife&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=00FFFF&icon_color=FE428E&text_color=FE428E&title=The%20Numbers">
     <img align="left" width="45%" src="https://github-stats-extended.vercel.app/api?username=ishaansucksatlife&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=00FFFF&icon_color=FE428E&text_color=FE428E&title=The%20Numbers" alt="GitHub Stats" />
   </a>
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=ishaansucksatlife&layout=donut&langs_count=20&theme=neon&hide_border=true&bg_color=00000000">
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=ishaansucksatlife&layout=donut&langs_count=20&theme=neon&hide_border=true&bg_color=00000000&title=My%20Stack">
     <img align="right" width="45%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ishaansucksatlife&layout=donut&langs_count=20&theme=neon&hide_border=true&bg_color=00000000&title=My%20Stack" alt="Top Languages" />
   </a>
 </p>
 
-<br><br><br>
+<div style="clear: both;"></div>   <!-- ← THIS is the only addition -->
+<br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=ishaansucksatlife&theme=neon&hide_border=true&mode=weekly&background=00000000&sideNums=FE428E&dates=94DED9&currStreakNum=F8D847&currStreakLabel=00FFFF&ring=00FFFF&stroke=06888B&sideLabels=FE428E" alt="Streak Stats"/>
