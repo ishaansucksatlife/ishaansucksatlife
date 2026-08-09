@@ -28,12 +28,7 @@
 <h3 align="center">
   <img src="https://i.imgur.com/0MAtmBh.png" />
   <br><br>
-  High school coder · Full-stack in progress
-  <br><br>
-  <p align="center" style="font-size: 16px; color: #00FFFF;">
-    Learning full-stack development, one Stack Overflow tab at a time.
-  </p>
-  <img src="https://i.imgur.com/0MAtmBh.png" />
+  High school student learning full-stack development
 </h3>
 
 ## 🎭 Profile Stats & Achievements
