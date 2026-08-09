@@ -24,11 +24,12 @@
 
 </div>
 
-
 <h3 align="center">
   <img src="https://i.imgur.com/0MAtmBh.png" />
   <br><br>
-  High school student learning full-stack development
+  High school student learning full-stack
+  <br><br>
+  <img src="https://i.imgur.com/0MAtmBh.png" />
 </h3>
 
 ## 🎭 Profile Stats & Achievements
